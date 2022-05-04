@@ -1,0 +1,8 @@
+{
+    "name": "Validar",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "flavi",
+    "contributors": [],
+    "dependencies": {}
+}
